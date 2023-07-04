@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Rohit Nayal
+- 📫 How to reach me: ...My LinkedIn-  https://www.linkedin.com/in/rohit-nayal-7810871ab
 
 <!--
 **rohitnayal12/rohitnayal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
