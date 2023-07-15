@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 👨‍💻 Portfolio- [portfolio](https://rohitnayal12.github.io/)
+- 👨‍💻 Portfolio- https://rohitnayal12.github.io/
 
 - 💬 Ask me about MERN
 
