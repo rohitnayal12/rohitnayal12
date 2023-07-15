@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-
+- Portfolio- https://rohitnayal12.github.io
 
 - 💬 Ask me about MERN
 
@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WoW_5ENmr8bnH1izNNUIXj-QXBVAlj8-/view?usp=sharing)
 
- Portfolio- https://rohitnayal12.github.io
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-nayal-7810871ab) 
