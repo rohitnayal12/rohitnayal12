@@ -2,11 +2,11 @@
 
 - Portfolio- https://rohitnayal12.github.io
 
-- 💬 Ask me about MERN
-
 - 📫 How to reach me rohitnayalkld@gmail.com
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WoW_5ENmr8bnH1izNNUIXj-QXBVAlj8-/view?usp=sharing)
+
+-  💬 Ask me about MERN
 
  
 
