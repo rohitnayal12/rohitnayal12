@@ -4,7 +4,7 @@
 
 - 📫 How to reach me rohitnayalkld@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1N66VeTNGj4_IKU6BUyaRNkA8L8lZZqIq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ArJNmEthfCLC2-YLY0Rlb5tBLEfwSQDk/view?usp=sharing)
 
 -  💬 Ask me about MERN
 
