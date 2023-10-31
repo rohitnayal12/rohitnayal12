@@ -2,7 +2,7 @@
 
 - Portfolio- https://rohitnayal12.github.io
 
-- 📫 How to reach me rohitnayalkld@gmail.com
+- 📫 How to reach me rohitnayalkld@gmail.com 
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ArJNmEthfCLC2-YLY0Rlb5tBLEfwSQDk/view?usp=sharing)
 
